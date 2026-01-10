@@ -1,4 +1,4 @@
-# Olist E-Commerce: Sales & Customer Analysis (SQL + Excel)
+# E-Commerce Revenue & Customer Retention Analysis (SQL + EXCEL)
 
 An end-to-end analysis of ~100K orders from the Brazilian marketplace Olist. I used **MySQL** to answer business questions, **Excel Power Query** to clean and shape the results, and **PivotTables, charts, and formulas** to build a one-page dashboard.
 
@@ -85,4 +85,4 @@ olist-sql-excel-analysis/
 
 Olist public dataset (Kaggle). Currency: Brazilian Reais (R$).
 
-**Author:** AYUSHI THAKUR | www.linkedin.com/in/ayushi-thakur2165
+**Author:** PIYUSH SHARMA | 
